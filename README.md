@@ -74,7 +74,12 @@ Worked on AI proposals, LLM pipelines, feasibility studies, and real-world syste
 
 ## 📊 GitHub Stats
 
-![Stats](https://github.com/Humaima)
+![Humaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humaima&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Humaima&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humaima&layout=compact&theme=tokyonight)
+
 
 ## 📫 Connect
 
