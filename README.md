@@ -1,5 +1,7 @@
 # Hi, I'm Humaima Anwar 👋
 
+![Create an aesthetic header image for Github profile_ Humaima _ AI Engineer  Make it look aesthtic and professional](https://github.com/user-attachments/assets/ccf406da-fe2d-4390-a3f7-6314cb791634)
+
 💻 AI Engineer | LLMs • RAG • Computer Vision • XAI  
 📍 Pakistan  
 🚀 Building real-world AI systems with research + engineering focus  
