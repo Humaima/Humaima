@@ -74,7 +74,7 @@ Worked on AI proposals, LLM pipelines, feasibility studies, and real-world syste
 
 ## 📊 GitHub Stats
 
-![Stats]()
+![Stats](https://github.com/Humaima)
 
 ## 📫 Connect
 
