@@ -72,14 +72,10 @@ Worked on AI proposals, LLM pipelines, feasibility studies, and real-world syste
 - Zindigi Prize Finalist  
 - AI Research Proposals (Ignite domains: Agriculture, Navy, Medicine)  
 
-## 📊 GitHub Stats
-
-![Humaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humaima&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Humaima&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humaima&layout=compact&theme=tokyonight)
-
+## 📊 GitHub Stats 
+![Humaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humaima&show_icons=true&theme=tokyonight&hide_border=true) 
+![GitHub Streak](https://streak-stats.demolab.com?user=Humaima&theme=tokyonight&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Humaima&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📫 Connect
 
