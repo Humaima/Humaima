@@ -3,7 +3,7 @@
 <img width="1536" height="1024" alt="Humaima Anwar&#39;s professional profile design" src="https://github.com/user-attachments/assets/56c646a7-8f5b-4e91-9a22-70ab29fdfc20" />
 
 
-💻 AI Engineer | LLMs • RAG • AI Agents • Computer Vision • XAI  
+💻 AI Engineer | LLMs • RAG • Computer Vision • XAI  
 📍 Pakistan  
 🚀 Building real-world AI systems with research + engineering focus  
 
