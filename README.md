@@ -1,6 +1,6 @@
 # Hi, I'm Humaima Anwar 👋
 
-<img width="1536" height="1024" alt="Humaima Anwar&#39;s professional profile design" src="https://github.com/user-attachments/assets/56c646a7-8f5b-4e91-9a22-70ab29fdfc20" />
+<img width="1536" height="1024" alt="Copilot_20260721_002746" src="https://github.com/user-attachments/assets/9c427a9f-475b-4430-ac5b-e0e66b5beda5" />
 
 
 💻 AI Engineer | LLMs • RAG • Computer Vision • XAI  
