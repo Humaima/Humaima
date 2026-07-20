@@ -1,9 +1,9 @@
 # Hi, I'm Humaima Anwar 👋
 
-<img width="1536" height="1024" alt="Copilot_20260721_002746" src="https://github.com/user-attachments/assets/9c427a9f-475b-4430-ac5b-e0e66b5beda5" />
+<img width="1057" height="411" alt="cover image" src="https://github.com/user-attachments/assets/e81b7208-1795-4211-9c0d-a03252bd829d" />
 
 
-💻 AI Engineer | LLMs • RAG • Computer Vision • XAI  
+💻 AI/ML Engineer & Researcher
 📍 Pakistan  
 🚀 Building real-world AI systems with research + engineering focus  
 
