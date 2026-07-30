@@ -63,7 +63,7 @@ My focus is on building scalable, explainable, and impactful AI solutions.
 - AI Research Intern — Center of Excellence in AI  
 - ML Intern — ARCH Technologies  
 - Transmission Networks Intern — Huawei  
-- Research Associate — DHNY Consultants  
+- Project Coordinator & Research Associate — DHNY Consultants Private Limited
 
 Worked on AI proposals, LLM pipelines, feasibility studies, and real-world system deployments.
 
