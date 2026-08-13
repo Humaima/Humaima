@@ -226,8 +226,11 @@ Python is the primary language across my AI/ML and Generative AI work, complemen
 
 <p align="center">
   <div align="center">
+    
     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Humaima&show_icons=true&theme=github_dark)
+    
     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Humaima&layout=compact&theme=github_dark)
+    
     ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Humaima&theme=github-dark)
   </div>
 </p>
