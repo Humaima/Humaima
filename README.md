@@ -154,12 +154,6 @@ Current areas of interest:
 * 🔄 **Human-in-the-Loop AI**
 * 🧪 **Generative AI Research**
 
-### 🔭 Current Research Direction
-
-**Explainable Human-in-the-Loop Self-Improving Multi-Agent Clinical Decision Support Systems using Large Language Models**
-
-Exploring how multi-agent AI systems can combine **retrieval, reasoning, explainability, confidence estimation, human feedback, and continuous improvement** for safer clinical decision support.
-
 ---
 
 # 💼 Experience
