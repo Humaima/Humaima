@@ -216,16 +216,6 @@ My GitHub portfolio includes **39 project repositories** spanning AI engineering
 
 Python is the primary language across my AI/ML and Generative AI work, complemented by SQL for data workflows and HTML, CSS, and JavaScript for application interfaces.
 
-### 📈 GitHub Statistics
-
-<p align="left">
-  <img src="https://humaima-readme-stats.vercel.app/api?username=Humaima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://humaima-readme-stats.vercel.app/api/top-langs/?username=Humaima&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
-</p>
-
 ### 🧩 Portfolio Snapshot
 
 <p align="center">
